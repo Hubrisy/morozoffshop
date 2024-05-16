@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/morozoffshop/static/css/main.7b99ede5.css",
-    "main.js": "/morozoffshop/static/js/main.d884e60c.js",
+    "main.js": "/morozoffshop/static/js/main.d3637a47.js",
     "static/js/453.da668fdd.chunk.js": "/morozoffshop/static/js/453.da668fdd.chunk.js",
     "static/media/camuflage3.jpg": "/morozoffshop/static/media/camuflage3.0ea358b0a4e0371aa913.jpg",
     "static/media/return.jpg": "/morozoffshop/static/media/return.826f2bda0a1b1097f655.jpg",
     "index.html": "/morozoffshop/index.html",
     "static/media/tick.svg": "/morozoffshop/static/media/tick.32a73997e4726719827b.svg",
     "main.7b99ede5.css.map": "/morozoffshop/static/css/main.7b99ede5.css.map",
-    "main.d884e60c.js.map": "/morozoffshop/static/js/main.d884e60c.js.map",
+    "main.d3637a47.js.map": "/morozoffshop/static/js/main.d3637a47.js.map",
     "453.da668fdd.chunk.js.map": "/morozoffshop/static/js/453.da668fdd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7b99ede5.css",
-    "static/js/main.d884e60c.js"
+    "static/js/main.d3637a47.js"
   ]
 }
