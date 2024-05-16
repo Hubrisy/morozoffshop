@@ -57,12 +57,12 @@ function App() {
           t.src=v;s=b.getElementsByTagName(e)[0];
           s.parentNode.insertBefore(t,s)}(window, document,'script',
           'https://connect.facebook.net/en_US/fbevents.js');
-          fbq('init', '1052702145793236');
+          fbq('init', '1494453011426420');
           fbq('track', 'PageView');
       `}
 </script>
 <noscript>
-{`<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1052702145793236&amp;ev=PageView&amp;noscript=1"/>`}
+{`<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1494453011426420&amp;ev=PageView&amp;noscript=1"/>`}
 </noscript>
     </Helmet>
 
